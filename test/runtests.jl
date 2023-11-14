@@ -2,5 +2,7 @@ using EEEAntennaLab
 using Test
 
 @testset "EEEAntennaLab.jl" begin
-    # Write your tests here.
+    itself=2.0;
+    plustwo=myfunc(itself);
+    println(plustwo);
 end
