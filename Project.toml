@@ -1,6 +1,6 @@
 name = "EEEAntennaLab"
 uuid = "8c77593e-871c-4bf4-a215-59cbcab0de07"
-authors = ["MertTamer <merttamerkisisel@gmail.com> and contributors"]
+authors = ["mtamer00 <merttamerkisisel@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
 [compat]
