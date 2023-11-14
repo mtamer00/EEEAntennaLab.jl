@@ -1,5 +1,8 @@
 module EEEAntennaLab
 
-# Write your package code here. Do you see this? Say
+ function myfunc(number::Float64)
+    x=number+2;
+    return(x);
+ end
 
 end
