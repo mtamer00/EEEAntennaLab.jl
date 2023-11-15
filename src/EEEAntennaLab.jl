@@ -1,7 +1,8 @@
 module EEEAntennaLab
 
- include("C:\\Users\\asus\\.julia\\dev\\EEEAntennaLab\\src\\function-1.jl")
- 
+ include("C:\\Users\\asus\\.julia\\dev\\EEEAntennaLab\\src\\func1.jl")
+ include("C:\\Users\\asus\\.julia\\dev\\EEEAntennaLab\\src\\func2.jl")
+ #=
  export myfunc
 
 
@@ -9,5 +10,5 @@ module EEEAntennaLab
       x=(number)^2;
       return x;
   end
-
+=#
 end
