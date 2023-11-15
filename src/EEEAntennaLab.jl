@@ -1,7 +1,6 @@
 module EEEAntennaLab
 
  export myfunc
- include("EEEAntennaLab.jl")
 
  function myfunc(number::Float64)
      
