@@ -1,6 +1,5 @@
 module function2
   
- using EEEAntennaLab
  export func2
 
  function func2(number::Float64)
