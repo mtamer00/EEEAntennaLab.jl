@@ -1,8 +1,8 @@
- module function1
+module function1
  
- export EEEAntennaLab.func1
+ export func1
  
- function EEEAntennaLab.func1(number::Float64)
+ function func1(number::Float64)
      x=(number)^2;
      return x;
  end
